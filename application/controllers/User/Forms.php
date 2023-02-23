@@ -5,7 +5,7 @@ class Forms extends CI_Controller
 	{
 		/*call CodeIgniter's default Constructor*/
 		parent::__construct();
-		/*load database libray manually*/
+		/*load database libray manually555555555*/
 		$this->load->database();
 		$this->load->library('session');
 		/*load Model*/
