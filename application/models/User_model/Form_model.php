@@ -11,3 +11,6 @@ class Form_model extends CI_Model
 	$update_pass=$this->db->query("UPDATE user_login set pass='$new_pass'  where id='$session_id'");
 	}
 }
+
+
+55555555
